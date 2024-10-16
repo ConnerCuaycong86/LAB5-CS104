@@ -1,0 +1,77 @@
+.box{
+    background-color: blue;
+    color: white;
+    height: 200px;
+    width: 300px;
+}
+.responsive-box{
+    background-color: orange;
+    color: white;
+    width: 50%;
+    height: 50%;
+}
+.padded-text{
+    background-color: red;
+    color: white;
+    padding: 20px;
+}
+.custom-padding{
+    background-color: yellow;
+    color: black;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.border-box{
+    background-color: purple;
+    color: white;
+    border: 2px solid black;
+}
+.rounded-border{
+    background-color: pink;
+    color: black;
+    border: 3px dotted red;
+    border-radius: 15px;
+}
+.margin-text{
+    background-color: brown;
+    color: white;
+    margin: 30px;
+}
+.custom-margin{
+    background-color: aqua;
+    color: black;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.inline-element{
+    background-color: green;
+    color: black;
+    display: inline;
+}
+.block-element{
+    background-color: darkred;
+    color: white;
+    display: block;
+}
+.hidden-element{
+    background-color: darkorange;
+    color: white;
+    display: none;
+}
+.visible-element{
+    background-color: grey;
+    color: black;
+    visibility: visible;
+}
+.invisible-element{
+    background-color: black;
+    color: white;
+    visibility: hidden;
+}
+.transparent-box{
+    background-color: blue;
+    color: black;
+    opacity: .5;
+}
